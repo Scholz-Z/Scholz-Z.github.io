@@ -15,3 +15,11 @@ text-align: center; color: #89E065;
 .center {
 text-align: center; color: #8251e0;
 }
+.projects { display:flex; flex-wrap:wrap; } /* condensed to save space */
+.project {
+width: 30%;
+margin: 10px;
+padding: 20px 10px;
+background: white; /* pick a color */
+border-radius: 25%;
+}
