@@ -39,3 +39,8 @@ border-radius: 25%;
         display: block;
         margin: auto;
         }
+        .profile img{
+            width: 300px;
+        height: 451px;
+        border: 2px solid rgb(126, 14, 201); /* choose a color */
+        }
